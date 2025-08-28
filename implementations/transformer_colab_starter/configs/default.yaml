@@ -1,0 +1,4 @@
+# Minimal config (Hydra-like style without dependency)
+seed: 42
+device: "cuda"
+output_dir: "outputs"

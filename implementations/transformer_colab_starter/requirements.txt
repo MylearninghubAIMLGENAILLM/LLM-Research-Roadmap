@@ -1,0 +1,10 @@
+torch==2.3.1
+torchvision
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+wandb
+sentencepiece
+tokenizers==0.15.2
